@@ -4,4 +4,4 @@
 
 ## 作品列表
 
-- [鑫翼机器人](https://docs.paul.ren/robot)
+- [鑫翼机器人](https://docs.4c3x.top/robot)
