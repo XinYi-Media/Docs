@@ -1,3 +1,3 @@
-* [赞助](http://yixin.chenxiweb1.cn/)
+* [赞助](#打赏)
 
 * [博客](http://yixin.chenxiweb1.cn)
