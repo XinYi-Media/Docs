@@ -50,8 +50,10 @@
 如果你对本机器人有任何意见或者建议可以向我们提出，包括但不限于自己想要的功能、机器人存在的BUG等。
 
 ## 打赏
-![QQ][http://p.ananas.chaoxing.com/star3/origin/9a9547f242b42e49a396f0dffa69ecda]
+![QQ](http://p.ananas.chaoxing.com/star3/origin/9a9547f242b42e49a396f0dffa69ecda)
 ⬆️QQ
+![支付宝](https://cdn.jsdelivr.net/gh/XinYi-Media/YiPic/2020/10/01/5f754a2f780db.jpeg)
+⬆️支付宝
 
   [1]: http://we-mz.chenxiweb1.cn/index.php?mod=wall&do=add&qq=161093591
   [2]: http://we-mz.chenxiweb1.cn/index.php?mod=wall&do=add&qq=3039264395
